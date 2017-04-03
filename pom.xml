@@ -2,7 +2,24 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.zayim</groupId>
     <artifactId>zayim-parent</artifactId>
-    <version>0.0.0-SNAPSHOT</version>
+    <version>0.0.0</version>
+
+    <name>zayim-parent</name>
+    <description>Parent POM for zayim projects.</description>
+    <url>https://github.com/zayim/zayim-parent</url>
+    <scm>
+        <url>https://github.com/zayim/zayim-parent</url>
+        <connection>scm:git:git@github.com:zayim/zayim-parent.git</connection>
+        <developerConnection>scm:git:git@github.com:zayim/zayim-parent.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
 
     <developers>
         <developer>
